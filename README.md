@@ -1,2 +1,3 @@
 # MahiroBot
-Yet another QQBOT.
+Yet another QQBOT based on Python and Mirai-api-http.
+
